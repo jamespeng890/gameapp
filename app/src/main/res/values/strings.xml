@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Match3 Game</string>
+    <string name="score">Score: %d</string>
+    <string name="level">Level: %d</string>
+    <string name="game_over">Game Over!</string>
+    <string name="final_score">Final Score: %d</string>
+    <string name="restart">Restart</string>
+</resources>
